@@ -1,0 +1,45 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/pia",
+      "Name": "PIA VPN Toggle Button",
+      "States": [
+        {
+          "Name": "disconnected",
+          "Image": "Images/disconnected",
+          "TitleAlignment": "bottom",
+          "Fontsize": "8"
+        },
+        {
+          "Name": "connected",
+          "Image": "Images/connected",
+          "TitleAlignment": "bottom",
+          "FontSize": "8"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "TODO_ENTER_TOOLTIP",
+      "UUID": "streamdeck-pia.pluginaction",
+      "PropertyInspectorPath": "PropertyInspector/PluginActionPI.html"
+    }
+  ],
+  "Author": "Pascal Pharand",
+  "Name": "PIA VPN Toggle Button",
+  "Description": "Allow to control Private Internet Access VPN client from Stream Deck",
+  "Icon": "Images/pia",
+  "URL": "http://home.local",
+  "Version": "1.0",
+  "CodePath": "streamdeck-pia",
+  "Category": "VPN",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "4.9"
+  }
+}
