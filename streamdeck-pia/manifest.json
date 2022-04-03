@@ -27,7 +27,7 @@
   "Name": "PIA VPN Toggle Button",
   "Description": "Allow to control Private Internet Access VPN client from Stream Deck",
   "Icon": "Images/pia",
-  "URL": "http://home.local",
+  "URL": "https://github.com/Hyrules/streamdeck-pia",
   "Version": "1.0",
   "CodePath": "streamdeck-pia",
   "Category": "VPN",
